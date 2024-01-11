@@ -10,8 +10,8 @@ from aiogram.types import ReplyKeyboardRemove, \
 
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 
-Bot_token = '6500172010:AAHY6Q1YNaFdw-6OFkeWc8rL2YFo_sWji64'
-VK_token = 'afe1fa60afe1fa60afe1fa6083acf7d8e3aafe1afe1fa60caa15fbacb31cdb69a225a39'
+Bot_token = #########
+VK_token = #########
 
 bot = Bot(Bot_token)
 dp = Dispatcher()
